@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋, I'm Nikita <br><br> Java Developer passionate about building scalable backend systems and exploring impactful technology.<br><br><br>🌱 Currently Exploring<br>- Android Development<br>- System Design Concepts<br>- Real-world scalable applications<br>- Creative problem solving through technology
+ Hi there 👋, I'm Nikita <br><br> Java Developer passionate about building scalable backend systems and exploring impactful technology.<br><br><br>🌱 Currently Exploring<br><br>- Android Development<br>- System Design Concepts<br>- Real-world scalable applications<br>- Creative problem solving through technology
 
 
 ## 🌐 Socials:
